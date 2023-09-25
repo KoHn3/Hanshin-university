@@ -1,2 +1,2 @@
-# Data-Engeneering
-#이 문서는 데이터 엔지니어링 과제 폴더입니다.
+# Hanshin University
+#이 문서는 한신대 과제제출용입니다
